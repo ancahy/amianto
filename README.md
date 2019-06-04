@@ -3,9 +3,9 @@
 ## Desciption
 Security tool to audit Asterisk AMI. 
 
-This tool emerges as a complement to an academic project. 
+This tool has been used as a complement to a final master's thesis. 
 
-It is in a beta phase. The idea behind the project is to review the code and add new options until a stable version can be released.
+Is is a first version. The purpose of the tool is to improve the code and add new functionalities in order to obtain a fully functional tool for audit work in Asterisk.
 
 
 ## Usage
